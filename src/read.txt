@@ -1,0 +1,11 @@
+# 1️⃣ Install dependencies
+npm i
+
+# 2️⃣ Fix missing Vite React plugin
+npm i -D @vitejs/plugin-react
+
+# 3️⃣ (Optional but used) Reinstall all dependencies
+npm i
+
+# 4️⃣ Run the development server
+npm run dev
