@@ -1,4 +1,4 @@
-# find this link for frontend part 
+# find this link for studybuddy  
 
 https://studybuddyaichatbot.netlify.app/
 
