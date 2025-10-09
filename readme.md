@@ -1,3 +1,11 @@
+# find this link for frontend part 
+
+https://studybuddyaichatbot.netlify.app/
+
+the up one ☝☝☝☝☝☝☝☝☝☝☝☝
+☝☝☝☝☝☝☝☝☝
+
+
 # StudyBuddy Frontend
 
 This is the **frontend** of the StudyBuddy application — a modern web app built with **React**, **TypeScript**, and **Vite** for fast development and performance.
