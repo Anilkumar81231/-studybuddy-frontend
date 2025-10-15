@@ -5,6 +5,8 @@ https://studybuddyaichatbot.netlify.app/
 the up one ☝☝☝☝☝☝☝☝☝☝☝☝
 ☝☝☝☝☝☝☝☝☝
 
+<img width="1897" height="809" alt="image" src="https://github.com/user-attachments/assets/bbe38956-afd6-4297-88c3-303405f5a6d7" />
+
 
 # StudyBuddy Frontend
 
